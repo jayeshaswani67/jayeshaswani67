@@ -40,6 +40,6 @@ I also work as a **content creator**, sharing ideas around tech, productivity, s
 
 ## 📫 Let's Connect
 
-- GitHub: github.com/jayesh
+- GitHub: github.com/jayeshaswani67
 - Open to collaboration, projects, and freelance work 🚀
 
