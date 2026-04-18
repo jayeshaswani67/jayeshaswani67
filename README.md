@@ -15,7 +15,7 @@ I also work as a **content creator**, sharing ideas around tech, productivity, s
 - 🤖 Exploring AI/ML & Agentic AI development
 - 📱 Building real-world projects (like Budget Tracker, Smart Chef, etc.)
 - 🎥 Content creation on tech & mindset
-- 💼 Learning freelancing & startup building
+- 💼 Exploring freelancing & startup building
 
 ---
 
